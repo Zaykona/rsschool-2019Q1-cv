@@ -1,9 +1,9 @@
 # Natallia Zayko
 
-E-mail:natalliazayko@gmail.com
-Phone: +375(29) 8607224
-Skype: nataliyazayko
-Location: Minsk
+E-mail:natalliazayko@gmail.com  
+Phone: +375(29) 8607224  
+Skype: nataliyazayko  
+Location: Minsk  
 
 
 ## Summary
@@ -33,9 +33,9 @@ Location: Minsk
 
 ## Education
 
-`September 2010 –  June 2015 `
-Engineer Programmer
-__International State Ecological University named A.D.Sakharova, Environmental, Monitoring faculty, __
+`September 2010 â€“  June 2015 `  
+Engineer Programmer  
+International State Ecological University named A.D.Sakharova, Environmental, Monitoring faculty
 
 
 
